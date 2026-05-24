@@ -27,23 +27,23 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.w3schools.com/sql)
+[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python)
 
 **Platforms & Tools**
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat&logo=databricks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![IBM Db2](https://img.shields.io/badge/IBM_Db2-052FAD?style=flat&logo=ibm&logoColor=white)
-![IBM Cloud Pak for Data](https://img.shields.io/badge/IBM_Cloud_Pak_for_Data-052FAD?style=flat&logo=ibm&logoColor=white)
-![IBM Watson Pipeline](https://img.shields.io/badge/IBM_Watson_Pipeline-BE95FF?style=flat&logo=ibmwatson&logoColor=white)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)](https://www.databricks.com)
+[![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3)
+[![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)](https://aws.amazon.com/ec2)
+[![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)](https://spark.apache.org)
+[![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat&logo=databricks&logoColor=white)](https://delta.io)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io)
+[![IBM Db2](https://img.shields.io/badge/IBM_Db2-052FAD?style=flat&logo=ibm&logoColor=white)](https://www.ibm.com/products/db2)
+[![IBM Cloud Pak for Data](https://img.shields.io/badge/IBM_Cloud_Pak_for_Data-052FAD?style=flat&logo=ibm&logoColor=white)](https://www.ibm.com/products/cloud-pak-for-data)
+[![IBM Watson Pipeline](https://img.shields.io/badge/IBM_Watson_Pipeline-BE95FF?style=flat&logo=ibmwatson&logoColor=white)](https://www.ibm.com/products/watson-studio)
 
 ---
 
