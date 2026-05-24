@@ -42,6 +42,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![IBM Db2](https://img.shields.io/badge/IBM_Db2-052FAD?style=flat&logo=ibm&logoColor=white)
+![IBM Cloud Pak for Data](https://img.shields.io/badge/IBM_Cloud_Pak_for_Data-052FAD?style=flat&logo=ibm&logoColor=white)
+![IBM Watson Pipeline](https://img.shields.io/badge/IBM_Watson_Pipeline-BE95FF?style=flat&logo=ibmwatson&logoColor=white)
 
 ---
 
@@ -50,8 +52,8 @@
 | Goal | Status |
 |------|--------|
 | Databricks Certified Data Engineer Associate | 🔄 In Progress |
-| SQL & PySpark interview preparation | 🔄 In Progress |
 | AWS Certified Cloud Practitioner CLF-C02 | 🔜 Up Next |
+| AWS Certified Data Engineer Associate | 🔜 Up Next |
 | Building public DE projects on GitHub | 🔜 Up Next |
 
 ---
@@ -67,7 +69,8 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-kaushik-599162363)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL-HERE)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:keshavkaushik0990@gmail.com)
 
 ---
 
