@@ -75,5 +75,5 @@
 ---
 
 <p align="center">
-  <i>"Consistency beats intensity. One pipeline at a time."</i>
+  <i>"One Step at a Time, One Punch at a Time, One Round at a Time."</i>
 </p>
