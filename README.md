@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Keshav Kaushik 👋</h1>
 
 <p align="center">
-  <b>Data Engineer · Delhi 🇮🇳</b><br/>
+  <b>Data Engineer · Delhi, India<br/>
   3 years of production Data Engineering experience at Maruti Suzuki India Limited
 </p>
 
