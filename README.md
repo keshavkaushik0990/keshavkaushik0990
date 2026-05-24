@@ -1,16 +1,76 @@
 ## Hi there 👋
 
-<!--
-**keshavkaushik0990/keshavkaushik0990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Keshav Kaushik 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Data Engineer · Delhi, India 🇮🇳</b><br/>
+  3 years of production Data Engineering experience at Maruti Suzuki India Limited
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working as a **Data Engineer at Diensten Tech Limited**,
+  deployed at **Maruti Suzuki India Limited (MSIL)**, Gurgaon
+- 🛠️ Building and monitoring production **ETL pipelines** and **data workflows**
+  on Databricks + AWS for one of India's largest automotive companies
+- 🎯 Actively preparing for the **Databricks Certified Data Engineer Associate** exam
+- 📚 Learning in public — documenting my upskilling journey on GitHub
+- 💡 Passionate about clean data pipelines, scalable ETL design,
+  and making data accessible across teams
+- 📍 Based in Rohini, Delhi
+
+---
+
+## 🧰 Tech Stack & Tools
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+
+**Platforms & Tools**
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![IBM Db2](https://img.shields.io/badge/IBM_Db2-052FAD?style=flat&logo=ibm&logoColor=white)
+
+---
+
+## 🚀 Currently Working On
+
+| Goal | Status |
+|------|--------|
+| Databricks Certified Data Engineer Associate | 🔄 In Progress |
+| SQL & PySpark interview preparation | 🔄 In Progress |
+| AWS Certified Cloud Practitioner CLF-C02 | 🔜 Up Next |
+| Building public DE projects on GitHub | 🔜 Up Next |
+
+---
+
+## 📂 Projects
+
+> 🔨 First projects coming soon as part of my
+> **Databricks + PySpark learning journey.**
+> Follow along — I'll be pushing practice notebooks
+> and ETL pipelines as I build them.
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-kaushik-599162363)
+
+---
+
+<p align="center">
+  <i>"Consistency beats intensity. One pipeline at a time."</i>
+</p>
