@@ -65,6 +65,10 @@
 
 ---
 
+## 📄 Resume
+
+[![Resume](https://img.shields.io/badge/Download_Resume-PDF-red?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/keshavkaushik0990/keshavkaushik0990/raw/main/Keshav_Resume_DE.pdf)
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL-HERE)
