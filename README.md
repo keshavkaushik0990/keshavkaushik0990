@@ -49,6 +49,7 @@
 
 | Goal | Status |
 |------|--------|
+| AWS Databricks Platform Architect | ✅ Completed — 2026 |
 | Databricks Certified Data Engineer Associate | 🔄 In Progress |
 | AWS Certified Cloud Practitioner CLF-C02 | 🔜 Up Next |
 | AWS Certified Data Engineer Associate | 🔜 Up Next |
