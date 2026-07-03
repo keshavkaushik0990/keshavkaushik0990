@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Engineer · Delhi, India<br/>
-  3 years of production Data Engineering experience at Maruti Suzuki India Limited
+  3+ years of production Data Engineering experience at Maruti Suzuki India Limited
 </p>
 
 ---
