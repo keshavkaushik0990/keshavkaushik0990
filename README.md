@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Keshav Kaushik 👋</h1>
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c2ac1440-caff-443b-903b-feb0301d35e9" /><h1 align="center">Hi, I'm Keshav Kaushik 👋</h1>
 
 <p align="center">
   <b>Data Engineer · Delhi, India<br/>
@@ -17,7 +17,8 @@
 - 📚 Learning in public — documenting my upskilling journey on GitHub
 - 💡 Passionate about clean data pipelines, scalable ETL design,
   and making data accessible across teams
-- 📍 Based in Rohini, Delhi
+- 📍 Based in Delhi,<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4b12c62a-c2ef-41fb-b3f7-386b9d861610" />
+
 
 ---
 
