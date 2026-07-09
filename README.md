@@ -13,7 +13,7 @@
   deployed at **Maruti Suzuki India Limited (MSIL)**, Gurgaon
 - 🛠️ Building and monitoring production **ETL pipelines** and **data workflows**
   on Databricks + AWS for one of India's largest automotive companies
-- 🎯 Actively preparing for the **Databricks Certified Data Engineer Associate** exam
+- 🎯 Actively preparing for the **AWS Certified Data Engineer Associate** exam
 - 📚 Learning in public — documenting my upskilling journey on GitHub
 - 💡 Passionate about clean data pipelines, scalable ETL design,
   and making data accessible across teams
