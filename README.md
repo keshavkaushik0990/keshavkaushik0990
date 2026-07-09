@@ -56,14 +56,6 @@
 | AWS Certified Data Engineer Associate | 🔜 Up Next |
 | Building public DE projects on GitHub | 🔜 Up Next |
 
----
-
-## 📂 Projects
-
-> 🔨 First projects coming soon as part of my
-> **Databricks + PySpark learning journey.**
-> Follow along — I'll be pushing practice notebooks
-> and ETL pipelines as I build them.
 
 ---
 
