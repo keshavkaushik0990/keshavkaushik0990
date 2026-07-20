@@ -39,7 +39,7 @@
 [![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat&logo=databricks&logoColor=white)](https://delta.io)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![IBM Db2](https://img.shields.io/badge/IBM_Db2-052FAD?style=flat&logo=ibm&logoColor=white)](https://www.ibm.com/products/db2)
 [![IBM Cloud Pak for Data](https://img.shields.io/badge/IBM_Cloud_Pak_for_Data-052FAD?style=flat&logo=ibm&logoColor=white)](https://www.ibm.com/products/cloud-pak-for-data)
 [![IBM Watson Pipeline](https://img.shields.io/badge/IBM_Watson_Pipeline-BE95FF?style=flat&logo=ibmwatson&logoColor=white)](https://www.ibm.com/products/watson-studio)
