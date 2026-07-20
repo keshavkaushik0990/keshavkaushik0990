@@ -59,7 +59,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
@@ -76,8 +76,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL-HERE)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:keshavkaushik0990@gmail.com)
 
----
-[![](https://komarev.com/ghpvc/?username=keshavkaushik0990&icon=0&color=13)](https://visitcount.itsvg.in)
 
 ---
 
